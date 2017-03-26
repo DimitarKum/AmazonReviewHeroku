@@ -1,0 +1,1 @@
+string in resources/data/test.txt
